@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amashawijewardana&label=Profile%20views&color=0e75b6&style=flat" alt="amashawijewardana" /> </p>
 
 
-<img align="right"  alt="Coding" width="800" src="https://camo.githubusercontent.com/1982536bad3e47f7e8bc0cac1e9fa00524cf104bcdc4ba8e986cc11255e4ded1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f36632f31372f62633663313731656565323838613266316531323463373439333033623234652e676966">
+<img align="right"  alt="Coding" width="400" src="https://camo.githubusercontent.com/1982536bad3e47f7e8bc0cac1e9fa00524cf104bcdc4ba8e986cc11255e4ded1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f36632f31372f62633663313731656565323838613266316531323463373439333033623234652e676966">
 
 
 <h3 align="left">Connect with me:</h3>
