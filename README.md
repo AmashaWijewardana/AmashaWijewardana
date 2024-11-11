@@ -3,7 +3,8 @@
     <h2>A passionate Computer Science Student from Sri Lanka.🎓</h2> 
 </center>
 
-![NUX_Octodex](https://github.com/user-attachments/assets/44b68b68-8628-42be-bab0-b39613823de6)
+![NUX_Octodex](https://github.com/user-attachments/assets/b48f62b0-4085-4b2d-9cb6-3945ecdff981)
+
 
 
 <center>
