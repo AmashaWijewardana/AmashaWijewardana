@@ -4,7 +4,7 @@
     <h1>Hey!! I'm Amasha Wijewardana🎯</h1>
     <h2>A passionate Computer Science Student from Sri Lanka.🎓</h2> 
 
-![NUX_Octodex](https://github.com/user-attachments/assets/b48f62b0-4085-4b2d-9cb6-3945ecdff981)
+![NUX_Octodex](https://github.com/user-attachments/assets/b48f62b0-4085-4b2d-9cb6-3945ecdff981)](https://octodex.github.com/nuxtocat/)](https://octodex.github.com/nuxtocat/)
 
  <h2>My Skill Set🧠</h2>
     <a href="https://reactjs.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
