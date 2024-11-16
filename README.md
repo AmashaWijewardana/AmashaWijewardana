@@ -4,7 +4,8 @@
     <h1>Hey!! I'm Amasha Wijewardana🎯</h1>
     <h2>A passionate Computer Science Student from Sri Lanka.🎓</h2> 
 
-![NUX_Octodex](https://github.com/user-attachments/assets/b48f62b0-4085-4b2d-9cb6-3945ecdff981)](https://octodex.github.com/nuxtocat/)](https://octodex.github.com/nuxtocat/)
+![NUX_Octodex](https://github.com/user-attachments/assets/b48f62b0-4085-4b2d-9cb6-3945ecdff981)
+
 
  <h2>My Skill Set🧠</h2>
     <a href="https://reactjs.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -20,7 +21,7 @@
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     <a href="https://github.com/AmashaWijewardana" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />   
-   <img src="Cool-GIFs-For-GitHub/README.md at main · Anmol-Baranwal/Cool-GIFs-For-GitHub · GitHub" width="400">
+   <img src="" width="400">
     </a>
     </div>
     </body>
